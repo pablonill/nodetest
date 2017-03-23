@@ -1,0 +1,12 @@
+{
+    "name": "apirestnode",
+    "author": {
+        "name": "Luna, Pablo A.",
+        "email": "pablonill@hotmail.com"        
+    },
+    "version": "0.1",
+    "main": "js/app.js",
+    "dependencies": {
+        "express": "~4.0.0"
+    }
+}
